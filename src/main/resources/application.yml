@@ -12,5 +12,8 @@ spring:
     generate-unique-name: false
     name: proveedores
 
+logging:
+  config: classpath:./gapsi-ws-log4j.xml
+
 gapsi:  
   version: "0.0.1"
