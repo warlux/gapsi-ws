@@ -1,0 +1,16 @@
+server:
+  servlet:
+    context-path: /gapsi-ws
+  port : 6060
+
+
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    generate-unique-name: false
+    name: proveedores
+
+gapsi:  
+  version: "0.0.1"

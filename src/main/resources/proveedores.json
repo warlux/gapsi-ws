@@ -1,0 +1,236 @@
+[
+	{
+		"id": 1,
+		"nombre": "Gapsi Outsourcing",
+		"razonSocial": "Gapsi Outsourcing S.A. de C.V.",
+		"direccion": "Calle 2, Fraccionamiento los Robles, 50340, Estado de México"
+	},
+	{
+		"id": 2,
+		"nombre": "Proveedor Dummy One",
+		"razonSocial": "Proveedor Dummy One S.A. de C.V.",
+		"direccion": "Av. de los Testers One, 30600, Ciudad de México"
+	},
+	{
+		"id": 3,
+		"nombre": "Proveedor Dummy Two",
+		"razonSocial": "Proveedor Dummy Two S.A. de C.V.",
+		"direccion": "Av. de los Testers Two, 30600, Ciudad de México"
+	},
+	{
+		"id": 4,
+		"nombre": "Proveedor Dummy Three",
+		"razonSocial": "Proveedor Dummy Three S.A. de C.V.",
+		"direccion": "Av. de los Testers Three, 30600, Ciudad de México"
+	},
+	{
+		"id": 5,
+		"nombre": "Proveedor Dummy Four",
+		"razonSocial": "Proveedor Dummy Four S.A. de C.V.",
+		"direccion": "Av. de los Testers Four, 30600, Ciudad de México"
+	},
+	{
+		"id": 6,
+		"nombre": "Proveedor Dummy Five",
+		"razonSocial": "Proveedor Dummy Five S.A. de C.V.",
+		"direccion": "Av. de los Testers Five, 30600, Ciudad de México"
+	},
+	{
+		"id": 7,
+		"nombre": "Proveedor Dummy Seven",
+		"razonSocial": "Proveedor Dummy Seven S.A. de C.V.",
+		"direccion": "Av. de los Testers Seven, 30600, Ciudad de México"
+	},
+	{
+		"id": 8,
+		"nombre": "Proveedor Dummy Eight",
+		"razonSocial": "Proveedor Dummy Eight S.A. de C.V.",
+		"direccion": "Av. de los Testers Eight, 30600, Ciudad de México"
+	},
+	{
+		"id": 9,
+		"nombre": "Proveedor Dummy Nine",
+		"razonSocial": "Proveedor Dummy Nine S.A. de C.V.",
+		"direccion": "Av. de los Testers Nine, 30600, Ciudad de México"
+	},
+	{
+		"id": 10,
+		"nombre": "Proveedor Dummy Ten",
+		"razonSocial": "Proveedor Dummy Ten S.A. de C.V.",
+		"direccion": "Av. de los Testers Ten, 30600, Ciudad de México"
+	},
+	{
+		"id": 11,
+		"nombre": "Proveedor Dummy Eleven",
+		"razonSocial": "Proveedor Dummy Eleven S.A. de C.V.",
+		"direccion": "Av. de los Testers Eleven, 30600, Ciudad de México"
+	},
+	{
+		"id": 12,
+		"nombre": "Proveedor Dummy Twelve",
+		"razonSocial": "Proveedor Dummy Twelve S.A. de C.V.",
+		"direccion": "Av. de los Testers Twelve, 30600, Ciudad de México"
+	},
+	{
+		"id": 13,
+		"nombre": "Proveedor Dummy Thirteen",
+		"razonSocial": "Proveedor Dummy Thirteen S.A. de C.V.",
+		"direccion": "Av. de los Testers Thirteen, 30600, Ciudad de México"
+	},
+	{
+		"id": 14,
+		"nombre": "Proveedor Dummy Fourteen",
+		"razonSocial": "Proveedor Dummy Fourteen S.A. de C.V.",
+		"direccion": "Av. de los Testers Fourteen, 30600, Ciudad de México"
+	},
+	{
+		"id": 15,
+		"nombre": "Proveedor Dummy 15",
+		"razonSocial": "Proveedor Dummy 15 S.A. de C.V.",
+		"direccion": "Av. de los Testers 15, 30600, Ciudad de México"
+	},
+	{
+		"id": 16,
+		"nombre": "Proveedor Dummy Sixteen",
+		"razonSocial": "Proveedor Dummy Sixteen S.A. de C.V.",
+		"direccion": "Av. de los Testers Sixteen, 30600, Ciudad de México"
+	},
+	{
+		"id": 17,
+		"nombre": "Proveedor Dummy Seventeen",
+		"razonSocial": "Proveedor Dummy Seventeen S.A. de C.V.",
+		"direccion": "Av. de los Testers Seventeen, 30600, Ciudad de México"
+	},
+	{
+		"id": 18,
+		"nombre": "Proveedor Dummy Eighteen",
+		"razonSocial": "Proveedor Dummy Eighteen S.A. de C.V.",
+		"direccion": "Av. de los Testers Eighteen, 30600, Ciudad de México"
+	},
+	{
+		"id": 19,
+		"nombre": "Proveedor Dummy Nineteen",
+		"razonSocial": "Proveedor Dummy Nineteen S.A. de C.V.",
+		"direccion": "Av. de los Testers Nineteen, 30600, Ciudad de México"
+	},
+	{
+		"id": 20,
+		"nombre": "Proveedor Dummy Twenty",
+		"razonSocial": "Proveedor Dummy Twenty S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty, 30600, Ciudad de México"
+	},
+	{
+		"id": 21,
+		"nombre": "Proveedor Dummy Twenty One",
+		"razonSocial": "Proveedor Dummy Twenty One S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty One, 30600, Ciudad de México"
+	},
+	{
+		"id": 22,
+		"nombre": "Proveedor Dummy Twenty Two",
+		"razonSocial": "Proveedor Dummy Twenty Two S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Two, 30600, Ciudad de México"
+	},
+	{
+		"id": 23,
+		"nombre": "Proveedor Dummy Twenty Three",
+		"razonSocial": "Proveedor Dummy Twenty Three S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Three, 30600, Ciudad de México"
+	},
+	{
+		"id": 24,
+		"nombre": "Proveedor Dummy Twenty Four",
+		"razonSocial": "Proveedor Dummy Twenty Four S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Four, 30600, Ciudad de México"
+	},
+	{
+		"id": 25,
+		"nombre": "Proveedor Dummy Twenty Five",
+		"razonSocial": "Proveedor Dummy Twenty Five S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Five, 30600, Ciudad de México"
+	},
+	{
+		"id": 26,
+		"nombre": "Proveedor Dummy Twenty Six",
+		"razonSocial": "Proveedor Dummy Twenty Six S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Six, 30600, Ciudad de México"
+	},
+	{
+		"id": 27,
+		"nombre": "Proveedor Dummy Twenty Seven",
+		"razonSocial": "Proveedor Dummy Twenty Seven S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Seven, 30600, Ciudad de México"
+	},
+	{
+		"id": 28,
+		"nombre": "Proveedor Dummy Twenty Eight",
+		"razonSocial": "Proveedor Dummy Twenty Eight S.A. de C.V.",
+		"direccion": "Av. de los Testers Twenty Eight, 30600, Ciudad de México"
+	},
+	{
+		"id": 29,
+		"nombre": "Proveedor Dummy 29",
+		"razonSocial": "Proveedor Dummy 29 S.A. de C.V.",
+		"direccion": "Av. de los Testers 29, 30600, Ciudad de México"
+	},
+	{
+		"id": 30,
+		"nombre": "Proveedor Dummy 30",
+		"razonSocial": "Proveedor Dummy 30 S.A. de C.V.",
+		"direccion": "Av. de los Testers 30, 30600, Ciudad de México"
+	},
+	{
+		"id": 31,
+		"nombre": "Proveedor Dummy 31",
+		"razonSocial": "Proveedor Dummy 31 S.A. de C.V.",
+		"direccion": "Av. de los Testers 31, 30600, Ciudad de México"
+	},
+	{
+		"id": 32,
+		"nombre": "Proveedor Dummy 32",
+		"razonSocial": "Proveedor Dummy 32 S.A. de C.V.",
+		"direccion": "Av. de los Testers 32, 30600, Ciudad de México"
+	},
+	{
+		"id": 33,
+		"nombre": "Proveedor Dummy 33",
+		"razonSocial": "Proveedor Dummy 33 S.A. de C.V.",
+		"direccion": "Av. de los Testers 33, 30600, Ciudad de México"
+	},
+	{
+		"id": 34,
+		"nombre": "Proveedor Dummy 34",
+		"razonSocial": "Proveedor Dummy 34 S.A. de C.V.",
+		"direccion": "Av. de los Testers 34, 30600, Ciudad de México"
+	},
+	{
+		"id": 35,
+		"nombre": "Proveedor Dummy 35",
+		"razonSocial": "Proveedor Dummy 35 S.A. de C.V.",
+		"direccion": "Av. de los Testers 35, 30600, Ciudad de México"
+	},
+	{
+		"id": 36,
+		"nombre": "Proveedor Dummy 36",
+		"razonSocial": "Proveedor Dummy 36 S.A. de C.V.",
+		"direccion": "Av. de los Testers 36, 30600, Ciudad de México"
+	},
+	{
+		"id": 37,
+		"nombre": "Proveedor Dummy 37",
+		"razonSocial": "Proveedor Dummy 37 S.A. de C.V.",
+		"direccion": "Av. de los Testers 37, 30600, Ciudad de México"
+	},
+	{
+		"id": 38,
+		"nombre": "Proveedor Dummy 38",
+		"razonSocial": "Proveedor Dummy 38 S.A. de C.V.",
+		"direccion": "Av. de los Testers 38, 30600, Ciudad de México"
+	},
+	{
+		"id": 39,
+		"nombre": "Proveedor Dummy 39",
+		"razonSocial": "Proveedor Dummy 39 S.A. de C.V.",
+		"direccion": "Av. de los Testers 39, 30600, Ciudad de México"
+	}
+]
